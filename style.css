@@ -53,7 +53,7 @@ legend{
 .inputUser:focus ~ .labelinput,
 .inputUser:valid ~ .labelinput{
     top: -20px;
-    color: rgb(97, 34, 133);;
+    color: rgb(97, 34, 133);
     font-size: 14px;
 }
 #dataNascimento{
